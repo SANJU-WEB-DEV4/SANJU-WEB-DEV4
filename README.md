@@ -1,21 +1,82 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm **Sanju AM**, a passionate **Computer Science Engineering student** and **Founder of CodSync Technologies**. I enjoy building scalable full-stack applications, solving real-world problems, and continuously learning new technologies.<br><br>- 🔭 I'm currently working on **AI-Powered Intelligent PC Build System** and **SmartBuilder**<br>- 🌱 I'm currently learning **Advanced Backend Development, System Design, AI Integration, and Cloud Technologies**<br>- 👯 I'm looking to collaborate on **Open Source, Full-Stack Web Development, and AI-based Projects**<br>- 🤝 I'm looking for help with **Large-Scale System Architecture and DevOps**<br>- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MySQL, Git, and Full-Stack Development**<br>- 🚀 Founder of **CodSync Technologies**, building innovative software solutions<br>- 📚 B.Tech CSE Student at **Hindustan Institute of Technology and Science** (CGPA: **9.36/10**)<br>- ⚡ Fun fact: **I love turning innovative ideas into real-world software products.**
+<h1 align="center">Sanju AM</h1>
+<h3 align="center">Full Stack Developer • Founder @ CodSync Technologies</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_mr._.addicted) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanju-am-7a491a372) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Codsynctec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjuam080@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SANJU-WEB-DEV4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SANJU-WEB-DEV4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SANJU-WEB-DEV4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SANJU-WEB-DEV4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+Building scalable software solutions, AI-powered applications, and modern web platforms.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=SANJU-WEB-DEV4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I am a Computer Science and Engineering undergraduate and the Founder of **CodSync Technologies**. I specialize in Full-Stack Development, Backend Engineering, and AI-driven software solutions with a focus on building scalable, reliable, and production-ready applications.
+
+Currently focused on developing intelligent software products while continuously expanding my expertise in Software Architecture, Cloud Computing, and Artificial Intelligence.
+
+---
+
+## Current Focus
+
+- Developing **SmartBuilder**
+- Building an **AI-Powered Intelligent PC Build System**
+- Learning **System Design**, **Cloud Technologies**, and **AI Engineering**
+- Building scalable backend architectures
+
+---
+
+## Tech Stack
+
+### Languages
+`Java` `Python` `JavaScript`
+
+### Frontend
+`React.js` `HTML5` `CSS3`
+
+### Backend
+`Node.js` `Express.js`
+
+### Database
+`MySQL` `Supabase`
+
+### Tools
+`Git` `GitHub` `VS Code` `REST APIs`
+
+---
+
+## Featured Projects
+
+### SmartBuilder
+An intelligent PC building platform with real-time hardware compatibility validation.
+
+### AI-Powered Intelligent PC Build System
+AI-powered recommendation engine that generates optimized PC configurations based on user requirements and budget.
+
+### Portfolio Website
+Responsive portfolio showcasing projects, technical expertise, and professional achievements.
+
+### The Fear Of Silence Journal
+Guided self-healing journal published through Amazon Kindle Direct Publishing (KDP).
+
+---
+
+## Education
+
+**B.Tech – Computer Science & Engineering**
+
+Hindustan Institute of Technology and Science
+
+CGPA: **9.36 / 10**
+
+Expected Graduation: **2028**
+
+---
+
+## Connect
+
+- **LinkedIn:** https://linkedin.com/in/sanju-am-7a491a372
+- **GitHub:** https://github.com/SANJU-WEB-DEV4
+- **Email:** sanjuam080@gmail.com
+
+---
+
+> *"Engineering software that creates real-world impact."*
